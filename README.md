@@ -8,7 +8,7 @@ $StringVar = "This is a string"
 $IntVar = 42
 </code>
 
-
+<br>
 
 <img src="https://media.discordapp.net/attachments/959220839507722260/959220851629236324/unknown.png">
 
@@ -18,7 +18,7 @@ $IntVar = 42
 $Get-Variable
 </code>
 
-
+<br>
 
 <img src="https://media.discordapp.net/attachments/959220839507722260/959221262058659900/unknown.png">
 
@@ -31,7 +31,7 @@ $IntVar2 = 10
 $IntVar1 * $IntVar2
 </code>
 
-
+<br>
 
 <img src="https://media.discordapp.net/attachments/959220839507722260/959221526840873050/unknown.png">
 
