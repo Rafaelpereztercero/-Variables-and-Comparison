@@ -8,6 +8,7 @@ $StringVar = "This is a string"
 $IntVar = 42
 </code>
 
+
 <img src="https://media.discordapp.net/attachments/959220839507722260/959220851629236324/unknown.png">
 
 <h2>Task 2</h2>
@@ -15,6 +16,7 @@ $IntVar = 42
 <code>
 $Get-Variable
 </code>
+
 
 <img src="https://media.discordapp.net/attachments/959220839507722260/959221262058659900/unknown.png">
 
@@ -26,6 +28,7 @@ $IntVar1 = 4
 $IntVar2 = 10
 $IntVar1 * $IntVar2
 </code>
+
 
 <img src="https://media.discordapp.net/attachments/959220839507722260/959221526840873050/unknown.png">
 
@@ -39,6 +42,7 @@ $IntVar4 = 2
 $VariableResult = $IntVar3 / $IntVar4
 </code>
 
+
 <img src="https://media.discordapp.net/attachments/959220839507722260/959221786849976330/unknown.png">
 
 <h2>Task 5</h2>
@@ -47,5 +51,6 @@ $VariableResult = $IntVar3 / $IntVar4
 <code>
 [String]$TypecastVar = 5
 </code>
+
 
 <img src="https://media.discordapp.net/attachments/959220839507722260/959222092560236585/unknown.png">
